@@ -110,66 +110,6 @@ var items = [
 			"description":"This is Camo Down Vest",
 			"image":"https://i.ibb.co/xJS0T3Y/camo-vest.png"
 		},
-		{
-			"id": 10,
-			"name": "Floral T-shirt",
-			"price": 75.55,
-			"quantity": 60,
-			"max_quantity": 8,
-			"category": "Mens",
-			"shipping_price": 9.5, 
-			"reviews":["This is very good product","Bad product"],
-			"description":"This is Floral T-shirt",
-			"image":"https://i.ibb.co/qMQ75QZ/floral-shirt.png"
-		},
-		{
-			"id": 11,
-			"name": "Black & White Longsleeve",
-			"price": 75.55,
-			"quantity": 60,
-			"max_quantity": 8,
-			"category": "Mens",
-			"shipping_price": 9.5, 
-			"reviews":["This is very good product","Bad product"],
-			"description":"This is Black & White Longsleeve",
-			"image":"https://i.ibb.co/55z32tw/long-sleeve.png"
-		},
-		{
-			"id": 12,
-			"name": "Brown Cowboy",
-			"price": 75.55,
-			"quantity": 60,
-			"max_quantity": 8,
-			"category": "Hats",
-			"shipping_price": 9.5, 
-			"reviews":["This is very good product","Bad product"],
-			"description":"This is Brown Cowboy",
-			"image":"https://i.ibb.co/QdJwgmp/brown-cowboy.png"
-		},
-		{
-			"id": 13,
-			"name": "Adidas Yeezy",
-			"price": 75.55,
-			"quantity": 60,
-			"max_quantity": 8,
-			"category": "Sneakers",
-			"shipping_price": 9.5, 
-			"reviews":["This is very good product","Bad product"],
-			"description":"This is Adidas Yeezy",
-			"image":"https://i.ibb.co/dJbG1cT/yeezy.png"
-		},
-		{
-			"id": 14,
-			"name": "Black Converse",
-			"price": 75.55,
-			"quantity": 60,
-			"max_quantity": 8,
-			"category": "Sneakers",
-			"shipping_price": 9.5, 
-			"reviews":["This is very good product","Bad product"],
-			"description":"This is Black Converse",
-			"image":"https://i.ibb.co/bPmVXyP/black-converse.png"
-		},
 	];
 
 var list_length = items.length;  // All product item length
